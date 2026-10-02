@@ -1,0 +1,7 @@
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  // Empty config since we installed the missing dependencies
+};
+
+export default nextConfig;
